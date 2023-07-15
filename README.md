@@ -20,26 +20,37 @@ The program provides the following functionality:
 
 # Sample Input/Output
 ```bash
-    Enter the No of Strings to insert
+ PS C:\Users\dhars> cd .\Desktop\DSA\
+PS C:\Users\dhars\Desktop\DSA> g++ .\main.cpp
+PS C:\Users\dhars\Desktop\DSA> .\a.exe
+Enter the No of String to insert
 5
-Enter the strings to insert:
 hello
 help
 he
 hobby
 happy
-Enter the No of Strings to get Auto-Suggestions
+
+
+Enter the no of string to get AutoSuggestions
 3
-Enter the strings to get Auto-Suggestions:
+h
+
+happy
 he
-----------------------
 hello
 help
 hobby
 ----------------------
-hobby
+help
+
+help
 ----------------------
-happy
+he
+
+he
+hello
+help
 ----------------------
 
 
